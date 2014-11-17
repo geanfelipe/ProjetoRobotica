@@ -1,0 +1,1 @@
+﻿<cmd>print plugin teste instalado com sucesso!\n</cmd>

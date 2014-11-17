@@ -1,0 +1,8 @@
+4	Diodo 							1N40O1
+4	Transistor 						TIP120
+1	Plug Fêmea
+1  Cabo de fonte para o arduino
+8	Potenciômetro						10K, 4,7K
+4	Servo RC padrão
+2	Capacitor cerâmico				0,01 x -10⁶ F
+2	CI controlador de motor 		L293D ou SN754410
